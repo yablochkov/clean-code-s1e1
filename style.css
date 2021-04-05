@@ -13,7 +13,8 @@ body {
 .head-section-img {
   width: 100%;
 }
-.head-section .more-info {
+.head-section,
+.more-info {
   font-family: fantasy, cursive;
 }
 
